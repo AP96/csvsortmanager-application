@@ -21,7 +21,9 @@ Follow these steps to get a development environment running:
 
 (3) CD to Project Root:
     Use your terminal to get to the root directory of the project.
+
 --------------------------------------------------------------------------------------
+
 A)  Terminal - By Creating a Fat JAR:
     
 1.1) Run this Maven command to build and compile the project.

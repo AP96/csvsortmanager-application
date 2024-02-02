@@ -1,12 +1,8 @@
 package com.crossixanalytics.sorting.csvsortmanager.service.implementations;
 
 import com.crossixanalytics.sorting.csvsortmanager.service.interfaces.CSVFileReader;
-import com.crossixanalytics.sorting.csvsortmanager.util.evaluators.CommandLineEvaluator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
-import java.io.BufferedReader;
-import java.io.FileReader;
 import java.io.IOException;
 import java.io.RandomAccessFile;
 import java.util.ArrayList;
